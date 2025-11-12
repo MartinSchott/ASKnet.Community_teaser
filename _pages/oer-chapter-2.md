@@ -51,3 +51,35 @@ In the #ASKnet ecosystem, OER are more than a principle—they are a core part o
 **Design for Accessibility**: Community discussions in #ASKnet emphasises designing text for readability, including font size, layout, and formats that work offline or in low bandwidth. OER best practices are being built into how #ASKnet’s materials are created.
 
 These open learning modules created by the #ASKnet members are available on the #ASKtraining platform, amplifying both the projects and skills base of every hub.
+
+## Resource Box
+
+{% include res-box.html 
+  title="#ASKtraining Platform"
+  url="https://training.asknet.community/"
+  text="The platform is an open, adaptable, and community-driven space designed to compile, share, and streamline workshops, Open Educational Resources (OER), and 'how-to' guides."
+%}
+
+{% include res-box.html 
+  title="#ASKnet Open Learning Guide"
+  url="LINK_TO_OLG_ON_WEBSITE"
+  text="A rugged poster listing resources on Open Educational Resources around the topics of online literacy, technology, and DIY communities."
+%}
+
+{% include res-box.html 
+  title="#ASKnet Open Hardware Guide"
+  url="LINK_TO_OHG_ON_WEBSITE"
+  text="This guide provides examples of hands-on skills, possibilities, and projects that apply open hardware methodologies for trainers, tinkerers, and facilitators."
+%}
+
+{% include res-box.html 
+  title="#ASKnet Open Source Documentation Guide"
+  url="LINK_TO_ODG_ON_WEBSITE"
+  text="#OSD provides easy guidance to increase the impact and innovative capacities of collaborative projects and is a door to new creative opportunities."
+%}
+
+{% include res-box.html 
+  title="#ASKnet Open Training Guide"
+  url="LINK_TO_OTG_ON_WEBSITE"
+  text="#OTG can be used by anyone to facilitate easier Access to Skills and Knowledge and  run your own training, wherever you may be."
+%}
